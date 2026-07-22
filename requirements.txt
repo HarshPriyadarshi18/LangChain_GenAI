@@ -1,0 +1,26 @@
+# requirements.txt
+# This file lists the Python packages required for the project.
+#langchain core
+langchain
+langchain-core
+#openai integration
+langchain-openai
+openai
+#anthropic integration
+langchain-anthropic
+
+#google gemini integration
+langchain-google-genai
+google-generativeai
+
+#huggingface integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+#env variable management
+python-dotenv
+
+#machine learning utlities
+scikit-learn
+numpy
