@@ -1,0 +1,67 @@
+Cricket - Basic Information
+
+Cricket is a popular bat-and-ball sport played between two teams of 11 players each. It originated in England and is now widely played across countries like India, Australia, England, and Pakistan.
+
+Governing Body:
+- International Cricket Council (ICC)
+
+Popular Boards:
+- Board of Control for Cricket in India (BCCI)
+- England and Wales Cricket Board (ECB)
+- Cricket Australia (CA)
+
+Formats of Cricket:
+1. Test Cricket
+   - Longest format (up to 5 days)
+2. One Day International (ODI)
+   - 50 overs per side
+3. Twenty20 (T20)
+   - 20 overs per side
+
+Basic Rules:
+- One team bats while the other bowls and fields.
+- The batting team tries to score runs.
+- The bowling team tries to dismiss batsmen.
+- The team with more runs wins.
+
+Ways to Score Runs:
+- Running between wickets
+- Boundaries (4 runs)
+- Sixes (6 runs)
+
+Ways to Get Out:
+- Bowled
+- Caught
+- Run out
+- LBW (Leg Before Wicket)
+- Stumped
+
+Field Positions:
+- Bowler
+- Wicketkeeper
+- Slip
+- Mid-off, Mid-on
+- Cover, Point, Fine leg, etc.
+
+Famous Tournaments:
+- ICC Cricket World Cup
+- ICC T20 World Cup
+- Indian Premier League (IPL)
+
+Famous Players:
+- Sachin Tendulkar
+- Virat Kohli
+- MS Dhoni
+- Don Bradman
+- Ricky Ponting
+
+Equipment Used:
+- Bat
+- Ball
+- Stumps
+- Pads, Gloves, Helmet
+
+Interesting Facts:
+- Cricket is the most popular sport in India.
+- The longest format (Test) is considered the purest form of the game.
+- T20 is the fastest and most entertaining format.
