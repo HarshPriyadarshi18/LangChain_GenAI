@@ -3,6 +3,7 @@
 #langchain core
 langchain
 langchain-core
+langchain-chroma
 #openai integration
 langchain-openai
 openai
